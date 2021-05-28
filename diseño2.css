@@ -1,0 +1,153 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(/2021/Informatica/informatic/Diseño/luke-chesser-3rWagdKBF7U-unsplash.jpg) ;
+}
+
+header{
+    background: url(/2021/Informatica/informatic/Diseño/virtual-reality.gif);
+height: 450px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.cabeza{
+    min-width: 1000px;
+    margin: auto;
+    padding: 30px 0;
+    background-color: rgb(0, 0, 0, 0.2);
+}
+
+.cabeza h2{
+    font-weight: bold;
+    font-size: 50px;
+    color: blanchedalmond;
+    text-shadow: 5px 5px 5px rgb(4, 53, 8); 
+    border-color: black;
+    margin-left: 70px;
+}
+
+.cont h1{
+    font-size: 44px;
+}
+
+.cont{
+    text-align: center;
+}
+
+.cont h1{
+    font-size:60px ;
+    font-weight:bold;
+    text-shadow: 3px 3px black ;
+    margin: 1em 0;
+    color: rgb(168, 255, 168);
+}
+
+.cont a{
+    color: azure;
+    text-decoration:none;
+    background-color:rgb(0, 83, 51);
+    padding:4px 20px ;
+    font-size: 20px;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+h2{
+    color: cornsilk;
+    text-decoration: underline;
+    font-size: 35px;
+}
+.text1{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+
+.text2{
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    background-color: rgba(3, 48, 33, 0.137);
+    font-size: 20px;
+    color: rgb(130, 250, 204);
+}
+
+.text3{
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.text4{
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: justify;
+    background-color: rgba(3, 48, 33, 0.137);
+    font-size: 20px;
+    color: rgb(130, 250, 204);
+}
+
+
+table {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    width: 60px;
+    size: 2px;
+    color: c;
+    text-align:justify;
+    position: relative;
+    left: 5%;
+    right: 10%;
+}
+
+td,th{ border: 4px solid #3E0E0E;
+    text-align: left;
+    padding-left: 1px;
+    padding-right: 1px;
+    background:rgba(240, 135, 180, 0.5);
+}
+
+footer{
+    padding-left:80px ;
+    background-color: hsl(175, 100%, 82%);
+}
+.wave{
+    position:relative;
+    margin-bottom: 0%;
+}
+.avatra{
+margin: 0%;
+border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%; 
+}
+
+.audio{
+    position: relative;
+    right: 20px;
+}
+
+.formu{
+    position:absolute;
+    right:30px;
+    top: -20px;;
+}
+
+.mov{
+    position:relative;
+    z-index: +1;
+    bottom: ;
+}
